@@ -68,15 +68,5 @@ This project focuses on **cleaning**, **exploring**, and **analyzing** the famou
 - Perform deeper feature engineering
 - Deploy an interactive dashboard for Titanic dataset visualization
 
----
 
-## 📬 Contact
-If you have any questions or suggestions, feel free to contact me:
-
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-
----
-
-# ⭐ Thank you for checking out this project!
 
